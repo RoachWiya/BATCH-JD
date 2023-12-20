@@ -16,7 +16,7 @@ Files that are being compared must be in separate folders containing files of th
 
 Although the script reorganizes file names in numerical order, it is recommended to make sure that files in comparing folders are organized in such a way that file pairs are in the same position in their corresponding folder. 
 
-**Segmentation label Entries **
+**Segmentation label Entries**
 
 
 The order in which the folder directories are entered is arbitrary, however the entries for segmentation labels must correspond to the entry of the folder directory. For instance, if Directory 1 contains files that have a segment label that is '26' for the L - Accumbens, then the user must enter '26' in the entry for segmentation label 1. 
