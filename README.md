@@ -1,7 +1,7 @@
 # BATCH-JD
 Python script that allows for Batch Processing and Calculation of Dice Overlap and Jaccard Index.
 
-#FolderDirectories and File Types 
+**#FolderDirectories and File Types:** 
 
 
 BATCH JD requires files that are being compared to be in these following formats: 
